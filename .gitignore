@@ -1,0 +1,5 @@
+*.csv
+*.gz
+!results.csv
+secrets.txt
+results/*
