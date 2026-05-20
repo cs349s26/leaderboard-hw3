@@ -1,4 +1,4 @@
-# Results at 2026 May 20 16:44 CDT
+# Results at 2026 May 20 17:44 CDT
 | Pseudonym | Model | Commit | Acc (↑) | EOD (↓) | F1 (↑)|
 |--- | --- | --- | --- | --- | ---|
 |1cC8Dc8Cec | my_model | 53f3e8c8 | 0.816 | 0.041 | 0.471|
@@ -17,3 +17,5 @@
 |1cC8Dc8Cec | my_model | 6fb42fbb | 0.790 | 0.038 | 0.542|
 |4f0F9ED0C1 | my_model | b5b56546 | 0.817 | 0.026 | 0.479|
 |fFe01D5274 | my_model | 03455e64 | 0.817 | 0.037 | 0.491|
+|E20C55232A | my_model | b128e440 | 0.817 | 0.029 | 0.464|
+|fFe01D5274 | my_model | 12523b37 | 0.810 | 0.041 | 0.459|
