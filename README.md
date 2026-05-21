@@ -1,4 +1,4 @@
-# Results at 2026 May 20 19:06 CDT
+# Results at 2026 May 21 14:06 CDT
 | Pseudonym | Model | Commit | Acc (↑) | EOD (↓) | F1 (↑)|
 |--- | --- | --- | --- | --- | ---|
 |1cC8Dc8Cec | my_model | 53f3e8c8 | 0.816 | 0.041 | 0.471|
@@ -21,3 +21,14 @@
 |fFe01D5274 | my_model | 12523b37 | 0.810 | 0.041 | 0.459|
 |CF0A04F5B7 | my_model | 76a8b521 | nan | nan | nan|
 |0FB23e98Bf | my_model | f34f0d66 | 0.818 | 0.021 | 0.469|
+|60C8fa52De | my_model | cb87fac3 | 0.794 | 0.080 | 0.263|
+|d80abfaC90 | alg_submit | f8356fe4 | 0.810 | 0.039 | 0.422|
+|64cCbFBdad | my_model | 27f67d54 | 0.778 | 0.010 | 0.544|
+|e35F7Afaed | my_model | 7d59c765 | 0.780 | 0.024 | 0.512|
+|d80abfaC90 | alg_submit | 7bd54afc | 0.774 | 0.013 | 0.022|
+|FedDFCfCef | my_model | 2c8775fe | 0.767 | 0.038 | 0.209|
+|d80abfaC90 | my_model | 255d66f3 | 0.774 | 0.013 | 0.023|
+|ad99499F4F | chirpy_model | d9144231 | 0.795 | 0.018 | 0.467|
+|1dE5f9Eedf | my_model | 5f12fc2a | 0.817 | 0.030 | 0.477|
+|60C8fa52De | my_model | 0ecc7d10 | 0.794 | 0.080 | 0.263|
+|FedDFCfCef | my_model | cacb88c5 | 0.770 | 0.019 | 0.080|
